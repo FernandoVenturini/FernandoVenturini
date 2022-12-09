@@ -18,6 +18,6 @@
     <img align="center" alt="html5" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
 </div></br>
 
-In love with technology!!!
+Passionate about technology and programming!!!
 
 ## Contact e-mail: devfernandouk@gmail.com
