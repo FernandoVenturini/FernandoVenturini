@@ -1,4 +1,4 @@
-## Hi there, I'm Fernando Venturini! 👋
+## Hi there, I'm Fernando! 👋
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://lvfcode.com](https://www.linkedin.com/in/fernando-venturini-351733206/))
 
